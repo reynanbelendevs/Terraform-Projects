@@ -1,0 +1,10 @@
+.vscode/
+secret.auto.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*deploy.tfplan
+*destroy.tfplan
+.terraform.lock.hcl
+mykey.ppk
+mykey.pub
